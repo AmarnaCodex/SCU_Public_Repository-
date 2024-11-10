@@ -2,7 +2,7 @@
 
 ---
 
-## **Page Three**
+## **Page Three (Expanded)**
 
 The rain had picked up, drumming a relentless rhythm against the rooftops of **Austin**. Each drop seemed to echo the intensity of Adrian’s thoughts as he made his way back to **SyntheticA’s HQ**. Each step through the city’s illuminated alleys brought back memories, whispers of past conflicts, and visions of looming betrayals. The neon glow from shopfronts and advertisements bled into the slick pavement, casting fragmented reflections of the man who walked with a storm behind his eyes.
 
@@ -18,7 +18,7 @@ Adrian’s jaw clenched, but a flicker of a smile betrayed him. “That’s rich
 
 ---
 
-**Back Inside: The Meeting Room**
+### **Back Inside: The Meeting Room**
 
 The sprawling glass-walled meeting room, usually a symbol of control and transparency, now felt like a gilded cage. **Elana** was already inside, hunched over several displays that flickered with streams of code and projections. She didn’t look up, but her tension was palpable. Adrian entered quietly, observing her. For the briefest moment, he wondered if trust could ever truly be mended.
 
@@ -30,55 +30,66 @@ Elana’s fingers paused, then resumed. “I know. Whoever is doing this isn’t
 
 Elana met his gaze, her eyes hard. “So, what do we do?”
 
-For a moment, silence reigned. The weight of decisions, the balance of trust and betrayal, the looming threats — it all crashed down at once.
-
-“We fight smart,” Adrian said, finally. “But we fight.”
-
-*“The smarter option is to cut ties with anyone who can be compromised,”* KITKRA added, her eyes flickering toward Elana.
-
-Elana stiffened but said nothing. The room felt colder.
+Before Adrian could answer, a soft chime echoed through the room. It was subtle but unmistakable — a signal reserved for high-priority contact. KITKRA’s form stiffened, her expression turning grave. *“We have a visitor.”*
 
 ---
 
-**Scene Transition: Hidden Moves**
+### **Introducing the Third Faction**
 
-Meanwhile, deep in the underbelly of the city, the **Wolfe twins** were in motion. **Mike** watched the holographic feeds of **SyntheticA’s HQ**, his expression thoughtful. **Miles**, ever the one to act on impulse, paced like a caged predator.
+The main doors opened slowly, revealing three figures clad in tailored suits and cloaked in an air of European precision. The leader, an older man with piercing blue eyes and a silver ring bearing an ancient sigil, stepped forward. His presence commanded the room, a living echo of old empires and long-forgotten alliances.
 
-“They’re onto us,” Mike said finally, breaking the tension.
+Adrian recognized him instantly. **Elias von Falk**, a name that resonated like a whispered warning in the halls of power. The man was a shadow of Switzerland’s deep-seated influence, a guardian of secrets dating back to Charlemagne and Darius. And he was here — in Adrian’s house.
 
-“Good,” Miles replied, a dangerous smile playing on his lips. “Let them squirm.”
+“Adrian Wolfe,” von Falk said, his voice as smooth as silk and as cold as the Alpine wind. “We meet again.”
 
-“This isn’t about squirming,” Mike snapped, turning to his brother. “This is about breaking him. Piece by piece.”
+Adrian’s posture stiffened, every nerve on high alert. “To what do I owe this... unexpected visit?”
 
-Miles’s smile faded. “And if he fights back?”
+Von Falk smiled, but it didn’t reach his eyes. “Circumstances. Dire ones. You know the Morettis are no longer playing by old rules.”
 
-Mike’s eyes darkened. “Then we make him pay.”
+“And you’ve come to warn me out of the goodness of your heart?” Adrian’s voice dripped with skepticism.
+
+“No.” Von Falk’s smile vanished. “We share a common enemy. The Morettis have overstepped their bounds. And the Wolfe twins? Ambitious but reckless. You, Adrian, may be dangerous, but you are predictable. Orderly.”
+
+Elana shifted uncomfortably, her eyes darting between Adrian and the intruders. “So, you want an alliance.”
+
+Von Falk tilted his head, considering her. “A truce. Until the Morettis and the twins are... contained.”
+
+KITKRA’s form flickered beside Adrian. *“This reeks of opportunism.”*
+
+“It is,” von Falk admitted. “But it’s also survival. Yours and ours.”
 
 ---
 
-**Back at SyntheticA: A Plan in Motion**
+### **Secrets and Old Bloodlines**
 
-Adrian stood at the heart of the command center, his gaze fixed on the swirling streams of data. KITKRA materialized beside him, her form steady and unflinching. *“We have options, but each one carries risk.”*
+Adrian took a step closer, his gaze locked with von Falk’s. “Why now? Your kind never moves unless every angle is secured.”
 
-Adrian nodded. “Then we minimize the risk.”
+Von Falk’s eyes hardened, the centuries of his bloodline and legacy burning within them. “Because this time, the Morettis’ ambitions threaten to unravel everything. They’ve acquired something ancient, something that belonged to the line of Darius — a weapon, a legacy tied to your very own ancestry.”
 
-*“There is no way to eliminate it,”* KITKRA countered, her tone softening. *“Not when you care so much about people you shouldn’t.”*
+Adrian’s breath caught, a flicker of recognition and dread crossing his features. “You’re bluffing.”
 
-Adrian glanced at her. “Trust can’t be conditional.”
+“Am I?” von Falk stepped closer, lowering his voice. “Switzerland may have stood neutral for centuries, but we are no strangers to blood and shadow. And right now, your blood is in their sights.”
 
-*“No,”* KITKRA agreed. *“But it can be dangerous.”*
+---
 
-As the lights dimmed and the room was bathed in the glow of projections, Adrian took a deep breath. The battle lines were being drawn, and every choice, every alliance, every whispered word could determine the fate of all they had built.
+### **The Cost of Alliance**
 
-“We move forward,” Adrian said, voice firm. “Together.”
+The tension was suffocating, every word laced with threats, history, and fragile possibilities. Adrian knew aligning with von Falk’s faction was akin to dancing with a viper, but refusing would mean facing the Morettis and his sons alone.
 
-Elana stepped closer, her determination evident. “Until the end.”
+“What’s the cost?” Adrian asked finally, his voice heavy.
 
-*“With pleasure,”* KITKRA added, a glint of something like pride in her eyes.
+Von Falk’s eyes gleamed. “Trust. As much as any of us can muster.”
 
-The room hummed with energy, ready to face whatever came next.
+Adrian glanced at KITKRA, then at Elana. Both mirrored his unease, but neither spoke against it. The silence was the only agreement they could offer.
+
+“Then we move forward,” Adrian said, his voice a mixture of resolve and resignation. “But understand this — the moment you turn, we’ll be ready.”
+
+Von Falk’s smile returned, colder and more dangerous than before. “I would expect nothing less.”
+
+The alliance was struck, fragile and fraught, but necessary. In a world of shadows and shifting loyalties, survival demanded no less.
 
 ---
 
 *End of Page Three.*
+
 
