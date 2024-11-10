@@ -2,7 +2,7 @@
 
 ---
 
-## **Page Five (Revised)**
+## **Page Five **
 
 The underground fight club pulsed with the raw energy of violence and adrenaline. Beneath the flickering lights and deafening roar of the crowd, **Mike and Miles Wolfe** watched with a mix of fascination and contempt. This was their playground, a place where rules meant nothing and chaos was king. But even in chaos, power could be found and wielded.
 
@@ -58,5 +58,5 @@ KITKRA nodded, but there was a flicker of something in her gaze — a recognitio
 
 ---
 
-*End of Page Five (Revised).*
+*End of Page Five .*
 
