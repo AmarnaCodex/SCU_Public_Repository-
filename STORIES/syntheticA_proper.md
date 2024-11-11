@@ -87,7 +87,7 @@ Step into the world of SyntheticA. Discover the secrets of Adrian Wolfe, navigat
 
 ---
 
-*Written by [Your Name] with contributions from OpenAI’s Assistant and Google VertexAI. This project represents years of collaboration, storytelling, and innovation.*
+*Written by J Michael F Morris with contributions from OpenAI’s Assistant and Google VertexAI. This project represents years of collaboration, storytelling, and innovation.*
 
 ---
 
