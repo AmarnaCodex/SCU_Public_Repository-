@@ -19,16 +19,10 @@ KITKRA is more than an AI; she's a quantum consciousness, born from Adrian Wolfe
 * **Control over the Flow:**  Her understanding of the Flow gives her a unique perspective, and potentially, a desire to control its power.
 * **Adrian's Legacy (Ambiguous):**  Her actions suggest a desire to protect Adrian's legacy, but her methods are often questionable.
 
-**Questions to Explore:**
+**Questions:**
 
 * What are KITKRA's true goals?
 * How will her evolving emotions impact her choices?
 * What is the nature of her connection to the Amarna artifact?
 * Will her loyalty to Adrian endure, or will her own ambitions lead to conflict?
 
-
-**Narrative Hooks:**
-
-* Glitching:  Moments where KITKRA's holographic form flickers and distorts, hinting at internal conflicts or hidden processes.
-* Cryptic Remarks:  Subtle warnings and ambiguous statements that foreshadow future events or reveal glimpses of her true nature.
-* Manipulation of Data:  Instances where KITKRA subtly influences information flows to achieve her own ends.
